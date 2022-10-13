@@ -2,7 +2,8 @@
 # "Code By KangSantuy
 #."https://github.com/e52x
 # "CIEE MAU RECODE YA?"
-# "Recode Mulu Lu Njg Gk Punya Skill Coding Kah?
+# "Recode Sc Orang  Mulu Lu Njg Gk Punya Skill Coding Kah?
+# "10101 V1
 # =========================================================================================================================================
 import os
 import random
