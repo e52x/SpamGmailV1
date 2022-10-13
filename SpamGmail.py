@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-# "Code By e52x
+# "Code By KangSantuy
 #."https://github.com/e52x
 # "CIEE MAU RECODE YA?"
+# "Recode Mulu Lu Njg Gk Punya Skill Coding Kah?
 # =========================================================================================================================================
 import os
 import random
