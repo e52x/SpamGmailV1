@@ -1,3 +1,13 @@
 # INSTALL DI TERMUX
 
-> apt install python2
+
+> APT UPDATE && APT UPGRADE
+
+> APT INSTALL PYTHON2
+
+> PIP INSTALL REQUESTS
+
+> GIT CLONE https://github.com/e52x/SpamGmailV1
+
+> CD SpamGmailV1
+
