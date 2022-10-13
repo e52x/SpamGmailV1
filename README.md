@@ -1,13 +1,14 @@
 # INSTALL DI TERMUX
 
 
-> APT UPDATE && APT UPGRADE
+> apt update && apt upgradr
 
-> APT INSTALL PYTHON2
+> apt install python
 
-> PIP INSTALL REQUESTS
+> pip install requests
 
-> GIT CLONE https://github.com/e52x/SpamGmailV1
+> git clone https://github.com/e52x/SpamGmailV1
 
-> CD SpamGmailV1
+> cd SpamGmailV1
 
+> python2 SpamGmail.py
