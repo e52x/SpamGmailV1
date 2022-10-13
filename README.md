@@ -1,9 +1,9 @@
 # INSTALL DI TERMUX
 
 
-> apt update && apt upgradr
+> pkg update && pkg upgrade
 
-> apt install python
+> pkg install python2
 
 > pip install requests
 
